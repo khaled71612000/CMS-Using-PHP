@@ -1,0 +1,50 @@
+
+#footer {
+    padding: 10px;
+    border-top: 1px solid black;
+    color: #eeeeee;
+    background-color: #211f22;
+    text-align: center;
+}
+.blogspot {
+    background-color: #f5f5f5;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    overflow: hidden;
+}
+#heading {
+    font-weight: bold;
+    color: #005e90;
+}
+#heading:hover {
+    font-weight: bold;
+    color: #0090db;
+}
+.description {
+    color: #868686;
+    font-weight: bold;
+    margin-top: -2px;
+}
+.post {
+    font-size: 1em;
+    text-align: justify;
+    word-wrap:break-word;
+    overflow: hidden;
+}
+
+.CommentBlock {
+    background-color: #f6f7f9;
+}
+.commentinfo {
+    color: #365899;
+    font-family: sans-serif;
+    font-size: 1.1em;
+    font-weight: bold;
+    padding-top: 10px;
+}
+.comment {
+    margin-top: -2px;
+    padding-bottom: 10px;
+    font-size: 1.1em;
+}
